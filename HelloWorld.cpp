@@ -4,7 +4,7 @@
 // This is another change
 // Third comment
 // Fourth comment
-// Author: Charles
+// Author: Charles (emailname@somewhere.com)
 
 int main()
 {
